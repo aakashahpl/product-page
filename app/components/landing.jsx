@@ -6,7 +6,7 @@ const Landing = () => {
         <div className="w-screen flex justify-center mt-32">
             <div className="flex flex-col items-center gap-y-5" >
                 <div className="text-[3rem] font-semibold">      
-                    LET'S START WITH GOOD CLEAN FOOD
+                    LETS START WITH GOOD CLEAN FOOD
                 </div>
                 <div className="text-2xl">
                     Built on fruits + vegetables. Delivered to your door. Ready in minutes.

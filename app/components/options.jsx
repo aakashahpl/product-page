@@ -46,9 +46,9 @@ const Options = () => {
             <div className=" grid grid-cols-4 gap-0 w-9/12 ">
                 {op.map((product) => {
                     return (
-                        <div className=" w-10/12">
-                            <div key={product.title}>
-                                <Image
+                        <div className=" w-10/12" key={product.title}>
+                            <div>
+                                <Image key={1}
                                     height={500}
                                     width={400}
                                     src={product.image}
