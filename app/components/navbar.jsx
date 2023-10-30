@@ -38,7 +38,7 @@ const Navbar = () => {
                 </div>
 
                 <div className="flex items-center ">
-                    <div>DAILY HARVEST</div>
+                    <div className=" tracking-[0.6em] font-bold">DAILY HARVEST</div>
                 </div>
 
                 <div className="flex  bg-white w-4/12 justify-between items-center ">

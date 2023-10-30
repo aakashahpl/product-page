@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 
 const Landing = () => {
     return (
-        <div className="w-screen flex justify-center h-screen mt-32">
+        <div className="w-screen flex justify-center mt-32">
             <div className="flex flex-col items-center gap-y-5" >
                 <div className="text-[3rem] font-semibold">      
                     LET'S START WITH GOOD CLEAN FOOD
