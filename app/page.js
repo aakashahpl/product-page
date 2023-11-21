@@ -5,7 +5,7 @@ import Options from './components/options'
 
 export default function Home() {
   return (
-    <main className="">
+    <main className="overflow-hidden">
         
       <Navbar/>
       <Landing/>

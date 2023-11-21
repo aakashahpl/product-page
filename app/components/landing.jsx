@@ -17,7 +17,7 @@ const Landing = () => {
                     </button>
                 </div>
                 <div>
-                  <img className="w-screen object-contain" src="https://images.ctfassets.net/iw4cawak30d4/7GR7a27rmUOz21fQh0kW7e/5fd663ec31825bcd6509f91a71f44dab/harvestbowl_desktop__1_.jpeg?fm=avif&q=85&w=1040" alt="" />
+                  <img className="w-screen object-contain"   src="https://images.ctfassets.net/iw4cawak30d4/7GR7a27rmUOz21fQh0kW7e/5fd663ec31825bcd6509f91a71f44dab/harvestbowl_desktop__1_.jpeg?fm=avif&q=85&w=1040" alt="" />
                 </div>
             </div>
         </div>

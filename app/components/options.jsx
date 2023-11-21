@@ -11,7 +11,7 @@ const op = [
         image: "https://images.ctfassets.net/iw4cawak30d4/1mN4rMMthzXBKtKI2PPF0E/c7b70d585dc9d3bbf100372565e02232/200219_TetrisRefresh2_07_Cherry_Smoothie_019_SL_Final_2.png",
         title: "SMOOTHIES",
         details:
-            "A one-cup wonder that makes busy days feel blissful. Add your favorite liquid, blend, then sip ’n go.",
+            "A one-cup wonder that makes busy days feel blissful. Add your favorite liquid, blend, then sip 'n go.",
     },
     {
         image: "https://images.ctfassets.net/iw4cawak30d4/1X9ylsPXc3WIgFpCpdXcvH/e5171d734372806e526213451bbbab91/200219_TetrisRefresh2_02_Kale_HarvestBowl_011_FINAL_SL_1.png",

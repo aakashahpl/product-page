@@ -27,7 +27,7 @@ const Navbar = () => {
     return (
         <div className="font-family:sailec">
             <nav
-                className={`fixed top-0 left-0 w-screen h-16 flex  justify-between bg-white transition-all duration-100 ease-in-out  ${
+                className={`fixed top-0 left-0 w-screen h-16 flex justify-between bg-white transition-all duration-100 ease-in-out  ${
                   scrolling?"shadow-lg":""
                 }`}
             >
@@ -41,8 +41,8 @@ const Navbar = () => {
                     <div className=" tracking-[0.6em] font-bold">DAILY HARVEST</div>
                 </div>
 
-                <div className="flex  bg-white w-4/12 justify-between items-center ">
-                  <div className="flex items-center">
+                <div className="flex  bg-white w-4/12 justify-around items-center ">
+                  <div className="flex items-center justify-around">
                     <LiaSearchSolid size={20} className="mx-2"/>
                     <input className="h-10 border-none" type="text" placeholder="Search"  />
                   </div>
